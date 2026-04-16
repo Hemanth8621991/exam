@@ -51,3 +51,12 @@ driver.quit()
 
 https://www.microsoft.com/edge
 
+
+git  clone 
+git checkout -b mits
+echo "hfvh">>e.txt
+git add e.txt
+git commit -m"jh"
+git checkout main
+git branch main
+git merge mits
